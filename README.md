@@ -14,7 +14,7 @@
     #game {
       display: grid;
       grid-template-columns: repeat(6, 50px);
-      grid-template-rows: repeat(10, 50px);
+      grid-template-rows: repeat(9, 50px);
       gap: 2px;
       margin: 20px auto;
       width: 520px;
